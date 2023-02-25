@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, I'm Aditya Krishna</h1>
 <h3 align="center">Ambitious, dedicated CSE undergrad from Vit Vellore, India.</h3>
 
-- 🌱 I’m currently learning **GitOps, Docker,& other DevOps tools**
+- 🌱 I’m currently learning **Teraform, Docker,& other DevOps tools**
 
 - 💬 Ask me about **Django, Python, Heroku, DSA, Shell scripting and more...**
 
