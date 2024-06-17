@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Teraform, Docker,& other DevOps tools**
 
-- 💬 Ask me about **Django, Python, Heroku, DSA, Shell scripting and more...**
+- 💬 Ask me about **Python, AWS, DSA, Shell scripting and more...**
 
 - 📫 How to reach me **aditya.py9@gmail.com**
 
